@@ -1,4 +1,4 @@
-package utils
+package utils4go
 
 import (
 	"bytes"
